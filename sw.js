@@ -1,6 +1,6 @@
 // アプリ本体と読み取り用ファイルを端末に保存し、ネットなしでも開けるようにする
 // English version: its own cache name, so it never touches the Japanese app's cache on the same origin
-const CACHE = "num-place-v219";
+const CACHE = "num-place-v220";
 const FILES = [
   "./", "./index.html", "./manifest.webmanifest",
   "./icons/icon-180.png", "./icons/icon-192.png", "./icons/icon-512.png",
